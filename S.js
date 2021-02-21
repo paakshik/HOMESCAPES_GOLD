@@ -108,7 +108,7 @@ function preload() {
   tv_j = loadImage('Images2/download__3_-removebg-preview.png')
   lamp_j = loadImage('Images2/152-1526418_table-lamp-clipart-unique-clipart-table-lamp-cartoon-lamp-transparent-removebg-preview.png')
   table_j = loadImage('Images2/download__4_-removebg-preview.png');
-poke = loadImage('images-removebg-preview.png')
+
 }
 
 
